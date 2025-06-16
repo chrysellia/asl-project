@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Priscillia-project\INSI\Algèbres linéaires\asl-project\venv"
+VIRTUAL_ENV="C:\Priscillia-project\INSI\Algèbres linéaires\asl-project - Copie\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
