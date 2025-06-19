@@ -49,4 +49,4 @@ Bibliothèques autorisées :
 
 ## lien vers rapport et slides
 - Rapport du projet (PDF): (./report/Rapport-asl.pdf)
-- Slides de présentation : (./presentation_LSA.pdf)
+- Slides de présentation : (./slides/Presentation_LSA_Manuelle(2).pptx)
